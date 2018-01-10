@@ -1,0 +1,37 @@
+.abtn, #add-animal{
+    background-color: #487f81;
+    color: #fff;
+    padding:5px 10px;
+    margin-right:10px;
+    border-radius:4px;
+    box-shadow: 3px 3px 8px #5f5f5f;
+}
+
+#animal-form{
+    display:block;
+    float:right;
+    width:32%;
+}
+
+#animals{
+    display:block;
+    float:left;
+    width:67%;
+}
+
+#animal-buttons{
+    margin-bottom:10px;
+}
+
+.imgDiv{
+    display:block;
+    float:left;
+    margin: 10px;
+}
+
+.giphy{
+    display:block;
+    height:250px;
+    width: auto;
+}
+
